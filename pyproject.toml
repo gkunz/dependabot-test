@@ -1,0 +1,6 @@
+[project]
+name = "dependabot-test"
+version = "0.0.1"
+dependencies = [
+  "urllib3==2.6.0"
+]
